@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "207716604400",
+    "firebase_url": "https://locatethem-7f619.firebaseio.com",
+    "project_id": "locatethem-7f619",
+    "storage_bucket": "locatethem-7f619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207716604400:android:297d1feb061c73fd",
+        "android_client_info": {
+          "package_name": "io.miwiacek.locatethem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207716604400-jn4m8vfh7d7443b1jl88tugl0m1rs5jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.miwiacek.locatethem",
+            "certificate_hash": "1a48a69e0a4c125486453d001dadfeb9949f3fd5"
+          }
+        },
+        {
+          "client_id": "207716604400-7fd3holg3q0eqn4j4jg8d2p1kdjka1ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.miwiacek.locatethem",
+            "certificate_hash": "c737f844f01ad43be6627fb7a45113957a87f69b"
+          }
+        },
+        {
+          "client_id": "207716604400-utch39j5pll06cbf8t6mcld72qp71e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZN5LAUfs4dNab7Yj4fS0hcwgnad25uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207716604400-utch39j5pll06cbf8t6mcld72qp71e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

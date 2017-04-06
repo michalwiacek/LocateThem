@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_c603e7eabc31b208eac21b749a338e626b98720b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/e0f7675ef077205f5d533b9ed04e8bfc7117e423/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_9613dcdcaf771fc796cd54c64bd82741b9efffd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/14685313222a25566412f4dca1d63ac5feb7e988/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_055d2778a7c834a39c02bc0d92040e53406c3d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/daf80142f906b9d2c20d15104b93bccbee879e24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_e085184fb50ae762d7e7fae3bb9a74707731c92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/842a99c04f09ca5cc2b98e666a56b28f4334e993/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_7d84f1cb97f3025000a37d1a6393ba1572b11f7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/.android/build-cache/5de1143d8660c2711bc546f85c82d23243e19a6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fc7e1c23059f230e9e2a232271db8287bcc436a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/4a82d25541431cabec169f102f7e561b5ca1f016/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_a07a6d02ec8e6af0b9e083fdce63e738b753bc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_0caf4a28161e362da6281bb32de0deb13baeaaea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/a438c0f76c57234c09087c51e44b9a5c2864901f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_a4e6b9f3f29c10afe4973df42d9ac7d74b6258ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/.android/build-cache/b83b4d87e68e1b548febfe6643f87579bb6d9577/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dff4b7f686696cc79bc96883dd2d449831eca5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/.android/build-cache/987b7c0f130ca6464932343e7c7828dbda8c3e39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dc92d76d440d46096e0673cd56a476d29dd775a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/b0fe34c8c0394853d564ec5687e2e6046642dae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_ddf31220037df409837d2caa4fb5c9aa657a60f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/Code/LocateThem-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49f3f7a84c186af5bb38c57ef59a16d383e69503/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/4f5e420aaa1cac15a2171e891dd85bcc3185fbab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_b645ea333180c95c75a6f77e5ef14ef24fa30e10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/Code/LocateThem-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a6ce911d9c71c1a71b2ad4c37847ad5240948c">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c6c3eb6d97e1ef5668e782bf6cc12418ed3ae8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Michal/.android/build-cache/5071ff878c66fc29ea2945cd5826322d6dad2f7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5843ed691f350d3f104e535e975266667e860083/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/4f8180370d04e4283e0dac8cee6e980f0662c240/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_a317538e3ad27a8939c1c7e734c2f395aef2023a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/68428f1b438df481f547a57870a289a0ada2e6c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_718204bbc190109bc15c976bda20285c885855eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/e7c1b655c2ae51eeff5fa75ad32519e281b8ef98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_af39c9357a7f8dfd50fdc2217ab07aeb36a367fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/7a83492c7ba9b2a637aab921c1cee80e63a89f2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_2a8b5ad8803110c83154cf61ef1274aebb10f3ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/a48c1cc5c22f22972d5955f2364d00b24c76a9fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_b00cd192628ab74019190b9c5fa15f0210da0638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/8d395e213504b9de2870d2fdbc774c1d800384c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_45b2dd71178002dafe5a3974ed382ad88476ba46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/72806e44f5e83ad2fe61c9bbbe344243fc402b5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_c4c3a510323027e4190a19a185c824bc71768e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/7dd8e31097c64b8a68d7997474ad447f94752b66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_545a2e1b66a18a0ab080fca3c95bec9c9699e3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/0ec2b189389cbd2a1d297a9bf2e8d2527b318f8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_a8c7a926e03e79938f7e73afa1a2052dea7f3975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/d9df0760636715d37fd04c86470b71f7b7184d28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_618ce9cee19e2175b54134b29eba5aab91bd4f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/6504cc469e87e991f8dade187f5b655f8baca36d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_92963c7137ca4c63e240886add700362d19658eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/89d03b708845b25a0de4614654316a2f95905e1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_595f25ebaa8b4a661abe6a9e13b1450a00b4eb82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Michal/.android/build-cache/667e78e96715983533ffb3e832e5647375e04cb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Michal/Code/LocateThem-master/app/build/intermediates/pre-dexed/debug/classes_48932c5a9014678fc9860197c3dcc7f4d71be779.jar" />
+    </item>
+
+</items>
